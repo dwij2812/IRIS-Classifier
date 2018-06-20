@@ -12,6 +12,6 @@
 > - pandas
 > - sklearn
 
-**To Run this Sure Jupyter Notebook is Installed on your PC**
+**To Run this Make Sure Jupyter Notebook is Installed on your PC**
 
 > ``` $ jupyter notebook project.ipynb```
