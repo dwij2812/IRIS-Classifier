@@ -11,3 +11,7 @@
 > - matplotlib
 > - pandas
 > - sklearn
+
+**To Run this Sure Jupyter Notebook is Installed on your PC**
+
+> ``` $ jupyter notebook project.ipynb```
